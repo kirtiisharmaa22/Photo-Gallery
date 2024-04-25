@@ -1,5 +1,5 @@
 .gallery {
-    --s: 300px; /* control the size */
+    --s: 250px; /* control the size */
     --g: 8px; /* control the gap */
   
     display: grid;
